@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayush Chaurasia</h1>
-<h3 align="center">A passionate Coder & frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Arvind Sharma</h1>
+<h3 align="center">A passionate Coder & Game and Backend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
