@@ -40,8 +40,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=er-ayush&show_icons=true&locale=en&layout=compact" alt="er-ayush" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabootar-1&show_icons=true&locale=en&layout=compact" alt="kabootar-1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=er-ayush&show_icons=true&locale=en" alt="er-ayush" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabootar-1&show_icons=true&locale=en" alt="kabootar-1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=er-ayush&" alt="er-ayush" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabootar-1&" alt="kabootar-1" /></p>
